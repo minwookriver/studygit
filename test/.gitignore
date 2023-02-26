@@ -1,0 +1,4 @@
+*.out
+test22/
+*.swp
+../.bash_history
