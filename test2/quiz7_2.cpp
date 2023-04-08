@@ -11,7 +11,7 @@ int main(){
   int i = 3;
   int j = 5;
   cout << i << ',' << j << endl;
-  swap(i,j);
+  swap(&i,&j);
   cout << i << ',' << j << endl;
   return 0;
 }
